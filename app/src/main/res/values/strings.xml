@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sato Gotuje</string>
+    <string name="opening_hours">Mon - closed\n
+Tue	14:00–20:00\n
+Wed	14:00–20:00\n
+Thu	14:00–20:00\n
+Fri	14:00–22:00\n
+Sat	14:00–22:00\n
+Sun	14:00–20:00</string>
+    <string name="contact">Adolfa Pawińskiego 24\nOchota, Warsaw, Poland\nPhone: +48 518 600 281</string>
+    <string name="description">Sato Gotuje is a place where we can relish the flavours of traditional Japanese dishes, minimalist aesthetics and unique atmosphere of the Far East.
+        The speciality of the restaurant is hand-made and –cut udon, served both cold and hot. We found especially interesting the one with miso pork, nori seaweed and sesame seeds in ponzu sauce. You can also have udon with stock, for example fish stock, with soya sauce and stewed duck breast. A vegetarian version is also available: with fried tofu and wakame seaweed.
+If you feel like something sweet there is panna cotta with matcha. Among drinks there are traditional sencha, genmaicha, bancha and assam. A roasted barley infusion (mugicha, 麦茶) and kombucha drink based on a Japanese fungus are especially worth trying.
+</string>
+    <string name="contact_label">Contact</string>
+    <string name="opening_house_label">Opening hours</string>
+    <string name="description_label">Description</string>
+</resources>
